@@ -1,90 +1,67 @@
-<h1 align="center">Hi 👋 I'm Uğur Can Elsun</h1>
-<h3 align="center">Full Stack Developer | Game Developer | System Architect</h3>
+<h1 align="center">Uğur Can Elsun</h1>
+<h3 align="center">Full Stack Developer | Game Developer</h3>
 
 <p align="center">
-Building scalable systems, modern web applications and interactive games.
-Open to collaboration, freelance and full-time opportunities.
+Scalable web applications • Backend systems • Game development
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Hakkımda
 
-💻 Full Stack Developer with hands-on experience in frontend, backend and database architecture.  
-🎮 Game Developer working with Unity (C#) & Unreal Engine.  
-🧠 Focused on clean architecture, scalability and performance.  
+Full Stack Developer olarak frontend, backend ve veritabanı mimarisi üzerinde aktif olarak çalışıyorum.  
+Aynı zamanda Unity (C#) ve Unreal Engine ile oyun projeleri geliştiriyorum.
 
-I design and develop complete production-ready systems — from idea to deployment.
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-HTML5 • CSS3 • JavaScript • TypeScript • React  
-
-### 🔥 Backend
-Node.js • Express • Python • REST APIs • Authentication Systems  
-
-### 🗄 Databases
-MongoDB • PostgreSQL • MySQL • Firebase  
-
-### 🎮 Game Development
-Unity (C#) • Unreal Engine • Gameplay Systems • Simulation Architecture  
-
-### ⚙️ Tools
-Git • GitHub • VS Code • Visual Studio • Postman • Figma  
+Temiz kod, ölçeklenebilir yapı ve performans odaklı sistemler geliştirmeye önem veriyorum.
 
 ---
 
-## 📦 What I Build
+## 🛠 Teknolojiler
 
-- Full Stack Web Applications  
-- Secure Backend APIs  
-- Business & Simulation Games  
-- Delivery & Logistics Systems  
-- E-Commerce Platforms  
-- Admin Dashboards  
+Frontend:
+HTML • CSS • JavaScript • TypeScript • React  
+
+Backend:
+Node.js • Express • Python • REST API  
+
+Veritabanı:
+PostgreSQL • MySQL • MongoDB • Firebase  
+
+Oyun Geliştirme:
+Unity (C#) • Unreal Engine  
+
+Araçlar:
+Git • GitHub • Postman • VS Code • Visual Studio  
 
 ---
 
-## 🤝 Open For
+## 📌 Çalıştığım Proje Alanları
 
-- Freelance Projects  
-- Startup Collaborations  
-- Game Development Teams  
-- Full-Time Remote Roles  
+- Full Stack Web Uygulamaları  
+- Backend API Geliştirme  
+- E-Ticaret Sistemleri  
+- Admin Panel & Dashboard  
+- Simülasyon & İş Oyunları  
 
 ---
+
+## 🤝 Açık Olduğum Alanlar
+
+- Uzaktan veya Ofis Full-Time Pozisyonlar  
+- Freelance Projeler  
+- Startup İş Birlikleri  
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsunugurcan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsunugurcan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 📫 Let's Connect
-
-📧 elsunugurcan@gmail.com  
-
----
-
-⭐ Building systems that scale.
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsunugurcan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsunugurcan&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsunugurcan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=elsunugurcan&theme=github-dark&hide_border=true" />
-</p>
+---
+
+## 📫 İletişim
+
+elsunugurcan@gmail.com

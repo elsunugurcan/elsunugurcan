@@ -76,3 +76,15 @@ Git • GitHub • VS Code • Visual Studio • Postman • Figma
 ---
 
 ⭐ Building systems that scale.
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsunugurcan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsunugurcan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=elsunugurcan&theme=github-dark&hide_border=true" />
+</p>

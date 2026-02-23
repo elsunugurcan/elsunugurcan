@@ -64,4 +64,4 @@ Git • GitHub • Postman • VS Code • Visual Studio
 
 ## 📫 İletişim
 
-elsunugurcan@gmail.com
+elsunugurcan5@gmail.com
